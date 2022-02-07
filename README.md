@@ -1,1 +1,1 @@
-# TestDoc
+<img src="https://raw.githubusercontent.com/PT400C/TestDoc/main/logo-dark.svg?sanitize=true#gh-dark-mode-only" alt="DefaultSettings Logo" width="300px"><img src="https://raw.githubusercontent.com/PT400C/TestDoc/main/logo.svg?sanitize=true#gh-light-mode-only" alt="DefaultSettings Logo" width="300px">
