@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="188.12399mm"
+   width="195.004mm"
    height="79.794998mm"
-   viewBox="0 0 188.12399 79.794998"
+   viewBox="0 0 195.00399 79.794998"
    version="1.1"
    id="svg1037"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -32,9 +32,9 @@
      inkscape:snap-intersection-paths="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
-     inkscape:zoom="0.64052329"
-     inkscape:cx="328.63754"
-     inkscape:cy="278.67839"
+     inkscape:zoom="1.2810466"
+     inkscape:cx="529.64507"
+     inkscape:cy="271.26258"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -145,13 +145,35 @@
        id="rect4824-6" />
   </defs>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer-2"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,38.129391,-67.403292)"
+       id="text2374-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;line-height:1.25;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2376-1);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="198.27539"
+         y="382.72103"
+         id="tspan1884">DefaultSettings</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,37.828471,-84.377816)"
+       id="text4822-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4824-6);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="199.83594"
+         y="525.12673"
+         id="tspan1886">by Jomcraft Network</tspan></text>
+  </g>
+  <g
      inkscape:label="Layer-1"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline">
     <g
        aria-label="DefaultSettings"
-       transform="matrix(0.26458333,0,0,0.26458333,31.25022,-67.403292)"
+       transform="matrix(0.26458333,0,0,0.26458333,38.129391,-67.403292)"
        id="text2374"
        style="font-size:53.3333px;line-height:1.25;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, Normal';white-space:pre;shape-inside:url(#rect2376)">
       <path
@@ -202,12 +224,13 @@
     </g>
     <g
        aria-label="by Jomcraft Network"
-       transform="matrix(0.26458333,0,0,0.26458333,30.94929,-84.377816)"
+       transform="matrix(0.26458333,0,0,0.26458333,37.828461,-84.377816)"
        id="text4822"
        style="font-size:40px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Normal';white-space:pre;shape-inside:url(#rect4824)">
       <path
-         d="m 204.52344,525.12673 h -2.01172 v -26.66016 h 4.45312 v 9.62891 q 1.26953,-2.20703 2.53907,-2.91016 1.26953,-0.70312 2.96875,-0.70312 3.24218,0 5.37109,2.7539 2.12891,2.75391 2.12891,7.63672 0,4.41406 -2.10938,7.53906 -2.08984,3.125 -6.01562,3.125 -3.94532,0 -6.13282,-3.65234 z m 2.4414,-8.41797 q 0,2.63672 1.13282,3.90625 1.15234,1.25 2.96875,1.25 1.75781,0 2.94921,-1.44531 1.19141,-1.44532 1.26954,-5.66407 0,-3.08593 -1.07422,-4.74609 -1.07422,-1.67969 -3.02735,-1.67969 -1.83593,0 -3.02734,1.42578 -1.19141,1.42579 -1.19141,4.02344 z"
-         id="path8833" />
+         d="m 206.96519,525.12673 h -4.45347 v -26.66016 h 4.45312 l 3.5e-4,9.62891 c 0.84635,-1.47135 1.69236,-2.44141 2.53872,-2.91016 0.84635,-0.46875 1.83594,-0.70312 2.96875,-0.70312 2.16145,0 3.95182,0.91797 5.37109,2.7539 1.41927,1.83594 2.12891,4.38151 2.12891,7.63672 0,2.94271 -0.70313,5.45573 -2.10938,7.53906 -1.39323,2.08333 -3.39843,3.125 -6.01562,3.125 -2.63021,0 -3.42414,-0.48563 -4.88247,-2.92052 z m -3.5e-4,-8.41797 c 0,1.75781 0.37761,3.0599 1.13282,3.90625 0.76823,0.83333 1.75781,1.25 2.96875,1.25 1.17187,0 2.15494,-0.48177 2.94921,-1.44531 0.79427,-0.96355 1.21745,-2.85157 1.26954,-5.66407 0,-2.05729 -0.35807,-3.63932 -1.07422,-4.74609 -0.71615,-1.11979 -1.72526,-1.67969 -3.02735,-1.67969 -1.22395,0 -2.23307,0.47526 -3.02734,1.42578 -0.79427,0.95053 -1.19141,2.29167 -1.19141,4.02344 z"
+         id="path8833"
+         sodipodi:nodetypes="cccccsssscsccscssccssss" />
       <path
          d="m 238.29297,505.40017 -7.67578,22.46093 q -0.70313,2.07032 -1.9336,3.20313 -1.21093,1.15234 -3.4375,1.15234 -0.8789,0 -2.55859,-0.13672 v -3.53515 l 2.12891,0.0391 q 1.40625,0 2.07031,-0.46875 0.68359,-0.44922 1.07422,-1.62109 0.39062,-1.17188 0.39062,-1.36719 0,-0.11719 -0.41015,-1.21094 l -6.77735,-18.51562 h 4.66797 l 4.78516,13.00781 4.12109,-13.00781 z"
          id="path8835" />
@@ -353,27 +376,5 @@
          style="fill:#ad5100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.43187;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m -16.31617,238.34275 a 91.693374,91.693374 0 0 0 -0.02066,1.94872 91.693374,91.693374 0 0 0 91.693102,91.69311 91.693374,91.693374 0 0 0 91.693628,-91.69311 91.693374,91.693374 0 0 0 -0.0207,-1.94717 91.693374,91.693374 0 0 1 -91.672958,89.74439 91.693374,91.693374 0 0 1 -91.672439,-89.74594 z" />
     </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Layer-2"
-     style="display:none">
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,31.25022,-67.403292)"
-       id="text2374-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;line-height:1.25;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2376-1);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
-         x="198.27539"
-         y="382.72103"
-         id="tspan9199">DefaultSettings</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,30.9493,-84.377816)"
-       id="text4822-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4824-6);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
-         x="199.83594"
-         y="525.12673"
-         id="tspan9201">by Jomcraft Network</tspan></text>
   </g>
 </svg>
